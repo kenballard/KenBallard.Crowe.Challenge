@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KenBallard.Crowe.Challenge.Service", "KenBallard.Crowe.Challenge.Service\KenBallard.Crowe.Challenge.Service.csproj", "{8B730B8A-D143-4F4E-957B-8D289D7DA54B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KenBallard.Crowe.Challenge.Service", "KenBallard.Crowe.Challenge.Service\KenBallard.Crowe.Challenge.Service.csproj", "{8B730B8A-D143-4F4E-957B-8D289D7DA54B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KenBallard.Crowe.Challenge.Test", "KenBallard.Crowe.Challenge.Test\KenBallard.Crowe.Challenge.Test.csproj", "{E01C2610-492A-4C44-B4E3-1604859CDC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KenBallard.Crowe.Challenge.Api", "KenBallard.Crowe.Challenge.Api\KenBallard.Crowe.Challenge.Api.csproj", "{30FA808C-6FEF-467A-AFE3-5115E2CE11DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KenBallard.Crowe.Challenge.Clr", "KenBallard.Crowe.Challenge.Clr\KenBallard.Crowe.Challenge.Clr.csproj", "{36E18B54-4866-414B-95B2-E5DAEDEC287A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01C2610-492A-4C44-B4E3-1604859CDC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01C2610-492A-4C44-B4E3-1604859CDC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01C2610-492A-4C44-B4E3-1604859CDC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01C2610-492A-4C44-B4E3-1604859CDC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FA808C-6FEF-467A-AFE3-5115E2CE11DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FA808C-6FEF-467A-AFE3-5115E2CE11DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FA808C-6FEF-467A-AFE3-5115E2CE11DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FA808C-6FEF-467A-AFE3-5115E2CE11DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E18B54-4866-414B-95B2-E5DAEDEC287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E18B54-4866-414B-95B2-E5DAEDEC287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E18B54-4866-414B-95B2-E5DAEDEC287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E18B54-4866-414B-95B2-E5DAEDEC287A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
