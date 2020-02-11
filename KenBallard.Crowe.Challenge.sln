@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KenBallard.Crowe.Challenge.Service", "KenBallard.Crowe.Challenge.Service\KenBallard.Crowe.Challenge.Service.csproj", "{8B730B8A-D143-4F4E-957B-8D289D7DA54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B730B8A-D143-4F4E-957B-8D289D7DA54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA40BDC-8871-4260-A483-549D7B380578}
+	EndGlobalSection
+EndGlobal
